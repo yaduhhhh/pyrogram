@@ -74,9 +74,9 @@ setup(
     keywords="telegram chat messenger mtproto api client library python",
     project_urls={
         "Tracker": "https://github.com/pyrogram/pyrogram/issues",
-        "Community": "https://t.me/pyrogram",
-        "Source": "https://github.com/pyrogram/pyrogram",
-        "Documentation": "https://docs.pyrogram.org",
+        "Community": "https://t.me/Johny_Sin",
+        "Source": "https://t.me/johny_sin",
+        "Documentation": "https://t.me/johny_sin",
     },
     python_requires="~=3.8",
     package_data={
